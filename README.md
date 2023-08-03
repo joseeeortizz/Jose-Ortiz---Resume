@@ -1,4 +1,6 @@
-<div align=”center”> [Jose Ortiz - Resume]</div>
+<p align="center">
+Jose Ortiz - Resume
+</p>
 =========================
 
 A **one-page**, **two asymmetric column** resume template in **XeTeX** that caters particularly to an **undergraduate Computer Science** student.
