@@ -1,6 +1,4 @@
-<p align="center">
-<b>Jose Ortiz - Resume</b>
-</p>
+Jose Ortiz - Resume
 =========================
 
 A **one-page**, **two asymmetric column** resume template in **XeTeX** that caters particularly to an **undergraduate Computer Science** student.
