@@ -1,5 +1,5 @@
 <p align="center">
-Jose Ortiz - Resume
+<b>Jose Ortiz - Resume</b>
 </p>
 =========================
 
